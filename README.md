@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Guti-01 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/Guti-01">
